@@ -1,2 +1,3 @@
 # American_Economy_Project
-The economy is the total of all activities related to the production, sale, distribution, exchange, and consumption of limited resources by a group of people living and operating within it. 
+The American economy has been experiencing a downturn since 2023. There are anecdotal evidences, data, and public sentiment.<br>
+Bad Economy (2023 - present)
