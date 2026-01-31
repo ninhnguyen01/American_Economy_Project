@@ -4,8 +4,10 @@ Bad Economy (2023 - present)<br><br>
 <b>"It's a recession when your neighbor loses his job; it's a depression when you lose yours. -  Harry S Truman"</b><br>
 <h3>Idiosyncrasy of the American Work Culture:</h3>
 <img src="asset/barrier.JPG" height=600 width=600>
+<h3>Across Generations:</h3>
+<img src="asset/gen-timeline.jpg" height=1000 width=1000>
 
-<h3>Anecdotal Evidences:</h3>
+<h3>Anecdotal Evidences (from Internet):</h3>
 <h4>[ Economy and Workers ]</h4>
 <p> Seriously, let's break this down...
 
@@ -58,4 +60,4 @@ In the end, what angers and humiliates people the most is other people.
 Selfish, disrespectful people.
 
 But strangely, when you have a gun, they act differently."
-- Moon Baek (Human trafficking victim/Orphan/Firearm distributor)</b></p>
+- Moon Baek</b></p>
