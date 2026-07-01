@@ -6,6 +6,8 @@ Bad Economy (2023 - present)<br><br>
 <img src="asset/barrier.JPG" height=600 width=600>
 <h3>Across Generations:</h3>
 <img src="asset/gen-timeline.jpg" height=1000 width=1000>
+<h3>GALLUP POLL:</h3>
+<img src="asset/The National Mood .png" height=800 width=800>
 
 <h3>Anecdotal Evidences (from Internet):</h3>
 <h4>[ Economy and Workers ]</h4>
