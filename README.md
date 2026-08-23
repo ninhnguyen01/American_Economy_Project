@@ -53,6 +53,9 @@ I’m not saying Europe’s perfect. But holy hell, compared to the U.S., we’r
 Sending love and solidarity from across the Atlantic. You deserve better. Seriously.
 </p>
 
+<h4>American Work Life (from Internet):</h4>
+<img src="asset/american-life.png" height=800 width=800>
+
 <h4><b>[ Netflix Korean Show "Trigger" - Insights into societal instability ]</b></h4>
 
 <p><b>"What would happen if everyone in Korea/[insert your country] had a gun?
