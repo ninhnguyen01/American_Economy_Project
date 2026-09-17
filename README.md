@@ -58,14 +58,3 @@ Sending love and solidarity from across the Atlantic. You deserve better. Seriou
 
 <h4>Vacation Days Comparison:</h4>
 <img src="asset/vacation.png" height=800 width=800>
-
-<h4><b>[ Netflix Korean Show "Trigger" - Insights into societal instability ]</b></h4>
-
-<p><b>"What would happen if everyone in Korea/[insert your country] had a gun?
-
-In the end, what angers and humiliates people the most is other people.
-
-Selfish, disrespectful people.
-
-But strangely, when you have a gun, they act differently."
-- Moon Baek</b></p>
